@@ -1,13 +1,3 @@
 {
-  "tasks": {
-    "todo": [
-      "TASK 3"
-    ],
-    "doing": [
-      "TASK 2"
-    ],
-    "done": [
-      "TASK 1"
-    ]
-  }
+  "tasks": []
 }
